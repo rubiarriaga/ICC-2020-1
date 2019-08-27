@@ -1,2 +1,4 @@
 # ICC-2020-1
-Repositorio con práctica de la clase ICC.
+Arriaga Camacho Vanessa Rubi
+-------------------------
+314201171
